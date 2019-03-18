@@ -3,7 +3,7 @@
 Seeding an express app
 
 ## Github Repository URL
-- [click here](https://github.com/Samanthgourineni/Workshop ) to visit repository.
+- [click here](https://github.com/redhug/SEEDING-AN-EXPRESS-APP/ ) to visit repository.
 
 ## Team Member 
 
